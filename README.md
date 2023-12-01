@@ -4,8 +4,8 @@ ___________________________________
 ### Team Name: 'Team Athlete'
 ___________________________________
 
-### Team Members:
-___________________________________
+## Team Members:
+
 ##### Jake D'Ambola 
 email: JCD117@pitt.edu
 
