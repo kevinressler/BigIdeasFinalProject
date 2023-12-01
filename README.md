@@ -1,6 +1,6 @@
 # CMPINF0010_Final
 
-## Team Name: 'Team Athlete'
+### Team Name: 'Team Athlete'
 ___________________________________
 
 ### Team Members:
