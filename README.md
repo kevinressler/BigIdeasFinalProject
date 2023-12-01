@@ -33,4 +33,4 @@ Fields Link: https://data.wprdc.org/dataset/field-listings/resource/f9cdb902-d13
 ___________________________________
 ### Overview:
 
-In this project we take data and apply it to each neighborhood in Pittsburgh to find out where would be the best place to be a athlete or become a professional athlete, the more athletic facilities there are the better chance for improvement for that athlete. 
+In this project we take data and apply it to each neighborhood in Pittsburgh to find out what the *best neighborhood* would be for a athlete or to become a professional athlete, the more athletic facilities there are the better chance for improvement for that athlete. 
