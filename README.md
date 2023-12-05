@@ -1,4 +1,5 @@
 # CMPINF0010_Final
+## Group 23
 ___________________________________
 
 ### Team Name: 'Team Athlete'
@@ -6,13 +7,13 @@ ___________________________________
 
 ## Team Members:
 
-##### Jake D'Ambola 
+##### Jake D'Ambola - courts and rinks
 email: JCD117@pitt.edu
 
-##### Kevin Ressler
+##### Kevin Ressler - fields
 email: KLR129@pitt.edu
 
-##### Sebastian Castro
+##### Sebastian Castro - pools
 email:SEC204@pitt.edu
 ___________________________________
 ### Description and links to the datasets used:
