@@ -1,4 +1,4 @@
-# What is the best neighborhood in Pittsburgh?
+# What is the Best Neighborhood in Pittsburgh?
 ## Group 23
 ___________________________________
 
