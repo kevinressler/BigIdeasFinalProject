@@ -1,4 +1,4 @@
-# CMPINF0010_Final
+# What is the best neighborhood in Pittsburgh?
 ## Group 23
 ___________________________________
 
@@ -10,7 +10,7 @@ ___________________________________
 ##### Jake D'Ambola - courts and rinks
 email: JCD117@pitt.edu
 
-##### Kevin Ressler - fields
+##### Kevin Ressler - baseball fields
 email: KLR129@pitt.edu
 
 ##### Sebastian Castro - pools
